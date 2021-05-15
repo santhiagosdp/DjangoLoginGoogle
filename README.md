@@ -1,2 +1,2 @@
 # DjangoLoginGoogle
- modelo de login no django com Goole
+ modelo de login no django com Google
