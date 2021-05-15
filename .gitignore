@@ -6,7 +6,6 @@
 
 *.pyc
 *.sqlite3
-*.client_secrets.json
 package-lock.json
 
 .DS_Store
