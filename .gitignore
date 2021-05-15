@@ -6,6 +6,7 @@
 
 *.pyc
 *.sqlite3
+*.client_secrets.json
 package-lock.json
 
 .DS_Store
@@ -19,5 +20,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 myvenv
+client_secrets.json
 
 .idea
